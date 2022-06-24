@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:upper:]]* /tmp/u
+sudo chown -h vincent:staff_hello
